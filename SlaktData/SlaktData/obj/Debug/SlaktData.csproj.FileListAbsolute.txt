@@ -24,3 +24,28 @@ D:\users\meeladsd\documents\visual studio 2013\Projects\SlaktData\SlaktData\bin\
 D:\users\meeladsd\documents\visual studio 2013\Projects\SlaktData\SlaktData\obj\Debug\SlaktData.dll
 D:\users\meeladsd\documents\visual studio 2013\Projects\SlaktData\SlaktData\obj\Debug\SlaktData.pdb
 D:\users\meeladsd\documents\visual studio 2013\Projects\SlaktData\SlaktData\obj\Debug\SlaktData.csprojResolveAssemblyReference.cache
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\SlaktData.dll.config
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\SlaktData.dll
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\SlaktData.pdb
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\Antlr3.Runtime.dll
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\EntityFramework.dll
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\Newtonsoft.Json.dll
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\System.Web.Mvc.dll
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\System.Web.Optimization.dll
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\System.Web.Providers.dll
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\System.Web.Razor.dll
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\System.Web.WebPages.dll
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\System.Web.WebPages.Razor.dll
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\WebGrease.dll
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\EntityFramework.xml
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\Newtonsoft.Json.xml
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\System.Web.Mvc.xml
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\System.Web.Razor.xml
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\System.Web.WebPages.xml
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\System.Web.WebPages.Razor.xml
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\obj\Debug\SlaktData.dll
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\obj\Debug\SlaktData.pdb

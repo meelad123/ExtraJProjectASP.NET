@@ -1,0 +1,34 @@
+﻿@model SlaktData.Models.User
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="login-content">
+        @using (Html.BeginForm("Login","Login", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div class="login-title">
+                <div class="title-login">
+                    <h3 class="text-primary" style="padding-left:10px;">LOGGA IN HÄR</h3>
+                </div>
+            </div>
+            <div class="login-field-user">
+                <div class="input-group">
+                    <div class="input-group-addon"><span class="glyphicon glyphicon-user" style="color: #cccccc; "></span></div>
+                    <input type="text" class="form-control" id="user-name" placeholder="Användarnamn" required>
+                </div>
+            </div>
+            <div class="login-field-pass">
+                <div class="input-group">
+                    <div class="input-group-addon"><span class="glyphicon glyphicon-lock" style="color: #cccccc; "></span></div>
+                    <input type="text" class="form-control" id="user-password" placeholder="Lösenord" required>
+                </div>
+            </div>
+            <div class="action-field clearfix">
+                <button style="border: none; border-radius:0px;" type="submit" class="btn btn-success pull-right">Logga in <span class="glyphicon glyphicon-chevron-right"></span></button>
+            </div>
+        }
+    </div>
+</div>

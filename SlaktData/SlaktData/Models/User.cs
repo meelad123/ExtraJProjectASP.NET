@@ -32,8 +32,8 @@ namespace SlaktData.Models
                     {
                         newUser.userName = dar["username"].ToString();
                         newUser.password = dar["userPass"].ToString();
-                        newUser.levNmr = dar["userPass"].ToString();
-                        newUser.ssrsURL = dar["userPass"].ToString();
+                        newUser.levNmr = dar["levNum"].ToString();
+                        newUser.ssrsURL = dar["ssrsURL"].ToString();
                         newUser.userId = Convert.ToInt32(dar["userId"]);
                     }
                     toreturn = newUser;

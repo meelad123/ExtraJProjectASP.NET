@@ -4,10 +4,11 @@
 }
 
 
-@if (((SlaktData.Models.User)Session["user"]) != null)
+@if (Session["user"] != null)
 {
     string urlssrs = ((SlaktData.Models.User)Session["user"]).ssrsURL;
+    string levNmr = ((SlaktData.Models.User)Session["user"]).levNmr;
     <div class="content">
-        <iframe width="100%" height="100%" frameborder="0" src="@urlssrs"></iframe>
+        <iframe width="100%" height="100%" frameborder="0" src="@urlssrs@levNmr"></iframe>
     </div>
 }

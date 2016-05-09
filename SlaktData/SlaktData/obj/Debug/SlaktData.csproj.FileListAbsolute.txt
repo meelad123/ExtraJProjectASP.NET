@@ -49,3 +49,4 @@ C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\Syst
 C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\bin\System.Web.WebPages.Razor.xml
 C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\obj\Debug\SlaktData.dll
 C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\obj\Debug\SlaktData.pdb
+C:\Users\alem1324\Source\Repos\ExtraJProjectASP.NET\SlaktData\SlaktData\obj\Debug\SlaktData.csprojResolveAssemblyReference.cache

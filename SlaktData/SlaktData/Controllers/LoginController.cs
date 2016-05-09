@@ -19,18 +19,26 @@ namespace SlaktData.Controllers
         [HttpPost]
         public ActionResult Login(FormCollection collection) 
         {
-            Models.User u = new Models.User();
-            u.userName = collection["user"];
-            u.password = collection["password"];
-            if (SecurityUtility.AuthenticateUser(u)) 
+            if (Session["user"] == null)
             {
-                return RedirectToAction("Index","Staff");
+                Models.User u = new Models.User();
+                u.userName = collection["user"];
+                u.password = collection["password"];
+                if (SecurityUtility.AuthenticateUser(u))
+                {
+                    return RedirectToAction("Index", "Staff");
+                }
+                else
+                {
+                    ViewBag.WrongInfo = "Fel info! Försök igen.";
+                    return View("Index");
+                }
             }
             else
             {
-                ViewBag.WrongInfo = "Fel info! Försök igen.";
-                return View("Index");
+                return RedirectToAction("Index", "Staff");
             }
+           
         }
     }
 }
